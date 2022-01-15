@@ -34,6 +34,7 @@ The refactored script runs 0.140625 seconds for 2017 and 0.148475 seconds for 20
 ![Runtime_Refactored_2018](/Resources/VBA_Challenge_2018.png)
 
 ## Summary
-Refactoring code will optimize the script to help it run more efficiently, execute faster, use less memory, and make the code logical and easier to read. However, refactoring code takes manpower and extra time to edit the code. Refactoring process is also prone to making mistakes and takes extra time to debug. For stock analysis, refactored VBA script runs faster than original one, which is beneficial. At the same time, it took us extra time to think of ways to refactor it and debugging the script for it to work, so cons are designing and debugging time. 
+-Refactoring code will optimize the script to help it run more efficiently, execute faster, use less memory, and make the code logical and easier to read. However, refactoring code takes manpower and extra time to edit the code. Refactoring process is also prone to making mistakes and takes extra time to debug. 
+-For stock analysis, refactored VBA script runs faster than original one, which is beneficial. At the same time, it took us extra time to think of ways to refactor it and debugging the script for it to work, so cons are designing and debugging time. 
 
 
